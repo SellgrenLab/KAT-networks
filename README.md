@@ -1,6 +1,8 @@
 # KAT-networks
 
-Github repository for the mansucript, "Kynurenic acid promotes activity-1 dependent synaptic pruning in schizophrenia". 
+Github repository for the mansucript:
+
+Kynurenic acid promotes activity-1 dependent synaptic pruning in schizophrenia. 
 
 Funda Orhan1*, Susmita Malwade1, Neda Khanlarkhani1, Asimenia Gkoga1, Oscar
 Jungholm1, Marja Koskuvi1,2, Šárka Lehtonen2,3, Lilly Schwieler1, Kent Jardemark1, Jari
@@ -8,7 +10,7 @@ Tiihonen2,4,5, Jari Koistinaho2, Sophie Erhardt1, Göran Engberg1, Samudyata Sam
 Carl M. Sellgren1,5*
 
 Corresponding Authors:
-Funda Orhan
+Funda Orhan, 
 Department of Physiology and Pharmacology, Karolinska Institutet, SE-171 77 Stockholm,
 Sweden.
 
